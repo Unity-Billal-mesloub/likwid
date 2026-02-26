@@ -27,7 +27,7 @@ It consists of:
 - likwid-setFrequencies: Tool to control the CPU and Uncore frequencies (x86 only)
 - likwid-sysFeatures: Tool to system settings like frequencies, powercaps and prefetchers (experimental)
 
-For further information please take a look at the [Wiki](https://github.com/RRZE-HPC/likwid/wiki) or contact us via Matrix chat [LIKWID General](https://matrix.to/#/#likwid:matrix.org?via=matrix.org).
+For further information please take a look or contact us via Matrix chat [LIKWID General](https://matrix.to/#/#likwid:matrix.org?via=matrix.org).
 
 
 --------------------------------------------------------------------------------
