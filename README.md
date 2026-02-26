@@ -100,7 +100,7 @@ You can get the releases of LIKWID at:
 http://ftp.fau.de/pub/likwid/
 
 For build and installation hints see INSTALL file or check the build instructions
-page in the wiki https://github.com/RRZE-HPC/likwid/wiki/Build
+page in the wiki https://github.com/Unity-Billal-mesloub/likwid/wiki/Build
 
 For quick install:
 ```bash
@@ -375,13 +375,13 @@ html documentation build with doxygen. Call
 or after installation, look at the man pages.
 
 There is also a wiki at the github page:
-https://github.com/rrze-likwid/likwid/wiki
+https://github.com/Unity-Billal-mesloub/likwid/wiki
 
 If you have problems or suggestions please let me know on the likwid mailing list:
 http://groups.google.com/group/likwid-users
 
 or if it is bug, add an issue at:
-https://github.com/rrze-likwid/likwid/issues
+https://github.com/Unity-Billal-mesloub/likwid/issues
 
 You can also chat with us through Matrix:
 - General chat: https://matrix.to/#/#likwid:matrix.org?via=matrix.org
@@ -391,11 +391,11 @@ You can also chat with us through Matrix:
 Extras
 --------------------------------------------------------------------------------
 - If you want to use the Marker API with Java, you can find the Java module here:
-https://github.com/jacek-lewandowski/likwid-java-api
+https://github.com/Unity-Billal-mesloub/
 - For Python you can find an interface to the LIKWID API here:
-https://github.com/RRZE-HPC/pylikwid or `pip install pylikwid`
+https://github.com/Unity-Billal-mesloub or `pip install pylikwid`
 - A Julia interface to LIKWID is provided by the [Paderborn Center for Parallel Computing (PC²)](https://pc2.uni-paderborn.de) and the [MIT JuliaLab](https://julia.mit.edu/):
-https://github.com/JuliaPerf/LIKWID.jl or `] add LIKWID`
+https://github.com/Unity-Billal-mesloub or `] add LIKWID`
 
 --------------------------------------------------------------------------------
 Survey
